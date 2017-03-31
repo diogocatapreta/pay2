@@ -1,0 +1,24 @@
+{
+  "name": "pay2",
+  "version": "1.0.0",
+  "description": "Plataforma de Pagamentos Online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogocatapreta/pay2.git"
+  },
+  "keywords": [
+    "payment",
+    "online",
+    "plataform"
+  ],
+  "author": "Diogo de Alcantara de Araujo Cata Preta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogocatapreta/pay2/issues"
+  },
+  "homepage": "https://github.com/diogocatapreta/pay2#readme"
+}
